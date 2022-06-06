@@ -142,7 +142,8 @@ We run what-if studies for each option by replaying datasets from operational sa
 ### Prototype Evaluation
 
 <div align=center><img src="SpaceCore-overview.pdf" width=""></div>
-![](SpaceCore-overview.pdf)
+
+![](./SpaceCore-overview.pdf)
 
 We follow §4–5 to prototype SpaceCore with [Open5GS](https://open5gs.org) and [OpenABE](https://github.com/zeutro/openabe) on two hardware: (1) Raspberry Pi 4 used by Baoyun 5G LEO satellite and; (2)
 Precision 7920 Workstation with Xeon E5-2630 (20 cores, 2.2GHz), which is similar to (weaker than) Hewlett Packard Enterprise EL 8000s (24 cores, 2.4GHz) used by OrbitsEdge in satellites.
