@@ -1,0 +1,501 @@
+Testing CP-ABE context
+attr number:1
+string length:100
+encrypt Time : 10.245ms
+Ciphertext length:836
+decrypt  Time : 27.9ms
+attr number:2
+string length:100
+encrypt Time : 13.34ms
+Ciphertext length:1016
+decrypt  Time : 33.292ms
+attr number:3
+string length:100
+encrypt Time : 16.64ms
+Ciphertext length:1196
+decrypt  Time : 38.766ms
+attr number:4
+string length:100
+encrypt Time : 19.879ms
+Ciphertext length:1380
+decrypt  Time : 44.779ms
+attr number:5
+string length:100
+encrypt Time : 22.601ms
+Ciphertext length:1560
+decrypt  Time : 49.529ms
+attr number:6
+string length:100
+encrypt Time : 25.988ms
+Ciphertext length:1740
+decrypt  Time : 55.427ms
+attr number:7
+string length:100
+encrypt Time : 29.116ms
+Ciphertext length:1924
+decrypt  Time : 60.525ms
+attr number:8
+string length:100
+encrypt Time : 31.802ms
+Ciphertext length:2104
+decrypt  Time : 65.549ms
+attr number:9
+string length:100
+encrypt Time : 35.177ms
+Ciphertext length:2284
+decrypt  Time : 71.54ms
+attr number:10
+string length:100
+encrypt Time : 39.124ms
+Ciphertext length:2472
+decrypt  Time : 77.05ms
+attr number:11
+string length:100
+encrypt Time : 41.556ms
+Ciphertext length:2656
+decrypt  Time : 82.169ms
+attr number:12
+string length:100
+encrypt Time : 44.755ms
+Ciphertext length:2840
+decrypt  Time : 87.652ms
+attr number:13
+string length:100
+encrypt Time : 47.661ms
+Ciphertext length:3028
+decrypt  Time : 93.112ms
+attr number:14
+string length:100
+encrypt Time : 51.146ms
+Ciphertext length:3212
+decrypt  Time : 98.82ms
+attr number:15
+string length:100
+encrypt Time : 54.135ms
+Ciphertext length:3396
+decrypt  Time : 103.66ms
+attr number:16
+string length:100
+encrypt Time : 56.981ms
+Ciphertext length:3584
+decrypt  Time : 109.11ms
+attr number:17
+string length:100
+encrypt Time : 60.214ms
+Ciphertext length:3768
+decrypt  Time : 114.686ms
+attr number:18
+string length:100
+encrypt Time : 63.349ms
+Ciphertext length:3952
+decrypt  Time : 120.255ms
+attr number:19
+string length:100
+encrypt Time : 66.625ms
+Ciphertext length:4140
+decrypt  Time : 125.785ms
+attr number:20
+string length:100
+encrypt Time : 69.82ms
+Ciphertext length:4324
+decrypt  Time : 131.353ms
+attr number:21
+string length:100
+encrypt Time : 73.172ms
+Ciphertext length:4508
+decrypt  Time : 137.213ms
+attr number:22
+string length:100
+encrypt Time : 76.019ms
+Ciphertext length:4696
+decrypt  Time : 141.862ms
+attr number:23
+string length:100
+encrypt Time : 79.754ms
+Ciphertext length:4880
+decrypt  Time : 148.022ms
+attr number:24
+string length:100
+encrypt Time : 81.972ms
+Ciphertext length:5068
+decrypt  Time : 153.016ms
+attr number:25
+string length:100
+encrypt Time : 85.395ms
+Ciphertext length:5252
+decrypt  Time : 159.31ms
+attr number:26
+string length:100
+encrypt Time : 88.086ms
+Ciphertext length:5436
+decrypt  Time : 163.908ms
+attr number:27
+string length:100
+encrypt Time : 91.387ms
+Ciphertext length:5624
+decrypt  Time : 169.424ms
+attr number:28
+string length:100
+encrypt Time : 94.323ms
+Ciphertext length:5808
+decrypt  Time : 174.823ms
+attr number:29
+string length:100
+encrypt Time : 97.293ms
+Ciphertext length:5992
+decrypt  Time : 180.239ms
+attr number:30
+string length:100
+encrypt Time : 101.689ms
+Ciphertext length:6180
+decrypt  Time : 186.14ms
+attr number:31
+string length:100
+encrypt Time : 104.147ms
+Ciphertext length:6364
+decrypt  Time : 191.903ms
+attr number:32
+string length:100
+encrypt Time : 106.426ms
+Ciphertext length:6548
+decrypt  Time : 195.661ms
+attr number:33
+string length:100
+encrypt Time : 110.953ms
+Ciphertext length:6736
+decrypt  Time : 203.255ms
+attr number:34
+string length:100
+encrypt Time : 113.499ms
+Ciphertext length:6920
+decrypt  Time : 207.699ms
+attr number:35
+string length:100
+encrypt Time : 117.063ms
+Ciphertext length:7104
+decrypt  Time : 214.496ms
+attr number:36
+string length:100
+encrypt Time : 119.809ms
+Ciphertext length:7292
+decrypt  Time : 219.621ms
+attr number:37
+string length:100
+encrypt Time : 122.278ms
+Ciphertext length:7476
+decrypt  Time : 224.13ms
+attr number:38
+string length:100
+encrypt Time : 125.305ms
+Ciphertext length:7660
+decrypt  Time : 230.328ms
+attr number:39
+string length:100
+encrypt Time : 128.641ms
+Ciphertext length:7848
+decrypt  Time : 235.383ms
+attr number:40
+string length:100
+encrypt Time : 131.327ms
+Ciphertext length:8032
+decrypt  Time : 240.677ms
+attr number:41
+string length:100
+encrypt Time : 135.211ms
+Ciphertext length:8216
+decrypt  Time : 247.189ms
+attr number:42
+string length:100
+encrypt Time : 138.175ms
+Ciphertext length:8404
+decrypt  Time : 252.919ms
+attr number:43
+string length:100
+encrypt Time : 140.833ms
+Ciphertext length:8588
+decrypt  Time : 257.719ms
+attr number:44
+string length:100
+encrypt Time : 144.63ms
+Ciphertext length:8772
+decrypt  Time : 263.957ms
+attr number:45
+string length:100
+encrypt Time : 148.161ms
+Ciphertext length:8960
+decrypt  Time : 269.918ms
+attr number:46
+string length:100
+encrypt Time : 150.431ms
+Ciphertext length:9144
+decrypt  Time : 273.889ms
+attr number:47
+string length:100
+encrypt Time : 154.487ms
+Ciphertext length:9328
+decrypt  Time : 281.814ms
+attr number:48
+string length:100
+encrypt Time : 156.883ms
+Ciphertext length:9516
+decrypt  Time : 285.8ms
+attr number:49
+string length:100
+encrypt Time : 159.654ms
+Ciphertext length:9700
+decrypt  Time : 291.561ms
+attr number:50
+string length:100
+encrypt Time : 162.373ms
+Ciphertext length:9884
+decrypt  Time : 296.718ms
+attr number:51
+string length:100
+encrypt Time : 167.276ms
+Ciphertext length:10072
+decrypt  Time : 304.699ms
+attr number:52
+string length:100
+encrypt Time : 169.571ms
+Ciphertext length:10256
+decrypt  Time : 309.065ms
+attr number:53
+string length:100
+encrypt Time : 173.857ms
+Ciphertext length:10440
+decrypt  Time : 314.773ms
+attr number:54
+string length:100
+encrypt Time : 175.614ms
+Ciphertext length:10628
+decrypt  Time : 318.938ms
+attr number:55
+string length:100
+encrypt Time : 178.832ms
+Ciphertext length:10812
+decrypt  Time : 325.741ms
+attr number:56
+string length:100
+encrypt Time : 182.624ms
+Ciphertext length:10996
+decrypt  Time : 331.831ms
+attr number:57
+string length:100
+encrypt Time : 185.948ms
+Ciphertext length:11184
+decrypt  Time : 337.846ms
+attr number:58
+string length:100
+encrypt Time : 188.439ms
+Ciphertext length:11368
+decrypt  Time : 342.561ms
+attr number:59
+string length:100
+encrypt Time : 192.213ms
+Ciphertext length:11552
+decrypt  Time : 349.159ms
+attr number:60
+string length:100
+encrypt Time : 194.604ms
+Ciphertext length:11740
+decrypt  Time : 354.375ms
+attr number:61
+string length:100
+encrypt Time : 198.678ms
+Ciphertext length:11924
+decrypt  Time : 359.524ms
+attr number:62
+string length:100
+encrypt Time : 202.135ms
+Ciphertext length:12108
+decrypt  Time : 367.148ms
+attr number:63
+string length:100
+encrypt Time : 205.699ms
+Ciphertext length:12296
+decrypt  Time : 373.395ms
+attr number:64
+string length:100
+encrypt Time : 207.875ms
+Ciphertext length:12480
+decrypt  Time : 376.534ms
+attr number:65
+string length:100
+encrypt Time : 210.799ms
+Ciphertext length:12664
+decrypt  Time : 382.376ms
+attr number:66
+string length:100
+encrypt Time : 213.299ms
+Ciphertext length:12852
+decrypt  Time : 388.046ms
+attr number:67
+string length:100
+encrypt Time : 217.057ms
+Ciphertext length:13036
+decrypt  Time : 394.757ms
+attr number:68
+string length:100
+encrypt Time : 219.441ms
+Ciphertext length:13220
+decrypt  Time : 399.094ms
+attr number:69
+string length:100
+encrypt Time : 222.884ms
+Ciphertext length:13408
+decrypt  Time : 404.623ms
+attr number:70
+string length:100
+encrypt Time : 226.802ms
+Ciphertext length:13592
+decrypt  Time : 411.127ms
+attr number:71
+string length:100
+encrypt Time : 229.347ms
+Ciphertext length:13776
+decrypt  Time : 416.638ms
+attr number:72
+string length:100
+encrypt Time : 233.161ms
+Ciphertext length:13964
+decrypt  Time : 423.769ms
+attr number:73
+string length:100
+encrypt Time : 236.138ms
+Ciphertext length:14148
+decrypt  Time : 429.32ms
+attr number:74
+string length:100
+encrypt Time : 237.918ms
+Ciphertext length:14332
+decrypt  Time : 433.417ms
+attr number:75
+string length:100
+encrypt Time : 241.383ms
+Ciphertext length:14520
+decrypt  Time : 438.915ms
+attr number:76
+string length:100
+encrypt Time : 244.496ms
+Ciphertext length:14704
+decrypt  Time : 445.739ms
+attr number:77
+string length:100
+encrypt Time : 247.437ms
+Ciphertext length:14888
+decrypt  Time : 450.189ms
+attr number:78
+string length:100
+encrypt Time : 251.275ms
+Ciphertext length:15076
+decrypt  Time : 456.862ms
+attr number:79
+string length:100
+encrypt Time : 254.677ms
+Ciphertext length:15260
+decrypt  Time : 462.582ms
+attr number:80
+string length:100
+encrypt Time : 257.597ms
+Ciphertext length:15444
+decrypt  Time : 468.691ms
+attr number:81
+string length:100
+encrypt Time : 261.195ms
+Ciphertext length:15632
+decrypt  Time : 474.322ms
+attr number:82
+string length:100
+encrypt Time : 263.861ms
+Ciphertext length:15816
+decrypt  Time : 480.138ms
+attr number:83
+string length:100
+encrypt Time : 266.364ms
+Ciphertext length:16000
+decrypt  Time : 485.636ms
+attr number:84
+string length:100
+encrypt Time : 268.898ms
+Ciphertext length:16188
+decrypt  Time : 491.21ms
+attr number:85
+string length:100
+encrypt Time : 273.729ms
+Ciphertext length:16372
+decrypt  Time : 497.424ms
+attr number:86
+string length:100
+encrypt Time : 275.807ms
+Ciphertext length:16556
+decrypt  Time : 502.893ms
+attr number:87
+string length:100
+encrypt Time : 278.791ms
+Ciphertext length:16744
+decrypt  Time : 508.964ms
+attr number:88
+string length:100
+encrypt Time : 283.1ms
+Ciphertext length:16928
+decrypt  Time : 515.419ms
+attr number:89
+string length:100
+encrypt Time : 285.836ms
+Ciphertext length:17112
+decrypt  Time : 521.493ms
+attr number:90
+string length:100
+encrypt Time : 289.33ms
+Ciphertext length:17300
+decrypt  Time : 526.37ms
+attr number:91
+string length:100
+encrypt Time : 291.564ms
+Ciphertext length:17484
+decrypt  Time : 531.309ms
+attr number:92
+string length:100
+encrypt Time : 295.307ms
+Ciphertext length:17668
+decrypt  Time : 538.989ms
+attr number:93
+string length:100
+encrypt Time : 298.501ms
+Ciphertext length:17856
+decrypt  Time : 543.84ms
+attr number:94
+string length:100
+encrypt Time : 300.72ms
+Ciphertext length:18040
+decrypt  Time : 548.638ms
+attr number:95
+string length:100
+encrypt Time : 303.621ms
+Ciphertext length:18224
+decrypt  Time : 555.129ms
+attr number:96
+string length:100
+encrypt Time : 307.73ms
+Ciphertext length:18412
+decrypt  Time : 562.105ms
+attr number:97
+string length:100
+encrypt Time : 310.171ms
+Ciphertext length:18596
+decrypt  Time : 567.99ms
+attr number:98
+string length:100
+encrypt Time : 314.358ms
+Ciphertext length:18780
+decrypt  Time : 578.89ms
+attr number:99
+string length:100
+encrypt Time : 319.16ms
+Ciphertext length:18968
+decrypt  Time : 581.75ms
+attr number:100
+string length:100
+encrypt Time : 320.678ms
+Ciphertext length:19156
+decrypt  Time : 586.201ms
