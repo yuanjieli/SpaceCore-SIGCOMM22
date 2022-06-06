@@ -20,16 +20,84 @@ This repository is composed of the following parts
 			|-Table2
 			|-...
 		|- sigcomm22.pdf: The SIGCOMM'22 paper.
-		|- README.md: This file
+		|- SpaceCore-overview.pdf: SpaceCore overview.
+		|- README.md: This file.
 	
 	
 ## Dataset
 
+
 We use two datasets for the empirical study and evaluation (released in `SpaceCore-SIGCOMM22/Dataset/`):
 
-- **satellite terminal dataset**: The dataset is collected from three satellite termainals: China Telecom Tiantong SC310, China Telecom Tiantong 
+- **Satellite terminal dataset**: The dataset is collected from three satellite termainals: China Telecom Tiantong SC310, China Telecom Tiantong 
 T900 and Inmarsat BGAN Explorer 710 in 04/2021–1/2022.  
 - **Mobileinsight dataset**: @yimei.
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th colspan="3"> Mobile satellites</th>
+    <th colspan="3"> Terrestrial 5G</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td></td>
+    <td>Inmarsat Explorer 710</td>
+    <td>Tiantong SC310</td>
+    <td>Tiantong T900</td>
+    <td>China Telecom</td>
+    <td>China Unicom</td>
+    <td>China Mobile</td>
+  </tr>
+  <tr>
+    <td>L1/L2</td>
+    <td>33,845</td>
+    <td>1,178,327</td>
+    <td>2,759,859</td>
+    <td>3,828,083</td>
+    <td>1,475,393</td>
+    <td>8,405,587</td>
+  </tr>
+  <tr>
+    <td>RRC<br></td>
+    <td>4,484</td>
+    <td>9,583</td>
+    <td>3,020</td>
+    <td>28,841</td>
+    <td>14,833</td>
+    <td>69,782</td>
+  </tr>
+  <tr>
+    <td>MM</td>
+    <td>57,264</td>
+    <td>46,139</td>
+    <td>13,556</td>
+    <td>605</td>
+    <td>970</td>
+    <td>4,194</td>
+  </tr>
+  <tr>
+    <td>SM</td>
+    <td>48,458</td>
+    <td>4,586</td>
+    <td>1,670</td>
+    <td>203</td>
+    <td>338</td>
+    <td>925</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td>946,860</td>
+    <td>2,311,663</td>
+    <td>4,885,375</td>
+    <td>3,857,732</td>
+    <td>1,491,534</td>
+    <td>8,480,488</td>
+  </tr>
+</tbody>
+</table>
 
 ## Figures and Tables
 
@@ -49,9 +117,32 @@ In `SpaceCore-SIGCOMM22/Figures-and-Tables/`, we release the traces used in [1]'
 - Table4: SpaceCore’s satellite signaling cost reduction.
 
 ## How to reproduce the results?
+
+We have placed the experimental code and data in the Figures-and-Tables folder. The following environment and dependencies are required to run them:
+
+```
+Python3
+jupyter notebook
+matplotlib
+numpy
+statsmodels
+pandas
+scipy
+seaborn
+```
+
+
+
 If you would like to reproduce all the results **without** relying on the data we provide, here is a guide to reproduction:
 
+### Empirical study
+In §3, we analyze four options of orbital core from 3GPP standards and 5G satellites by progressively adding radio, session, mobility, and security functions to satellites (Figure 6). 
+We run what-if studies for each option by replaying datasets from operational satellites and terrestrial 5G (Table 2, collected by MobileInsight  and equipment in Figure 4b) and global mobile subscriptions in ground stations in (as home network) and LEO mega-constellations in Table 1 using grid topology  and a testbed running open5gs on two commodity hardware in real LEO satellites (detailed in §6).
+
 ### Prototype Evaluation
+
+<div align=center><img src="./SpaceCore-overview.pdf" width=""></div>
+
 We follow §4–5 to prototype SpaceCore with [Open5GS](https://open5gs.org) and [OpenABE](https://github.com/zeutro/openabe) on two hardware: (1) Raspberry Pi 4 used by Baoyun 5G LEO satellite and; (2)
 Precision 7920 Workstation with Xeon E5-2630 (20 cores, 2.2GHz), which is similar to (weaker than) Hewlett Packard Enterprise EL 8000s (24 cores, 2.4GHz) used by OrbitsEdge in satellites.
 
@@ -95,31 +186,7 @@ Here are the steps in detail:
 2. Calculate signaling path: Based on the access data, we calculate the shortest path that signals of handover and TAU procedures pass. Satllites on th path needs to transfer signal and trigger signaling costs.
 3. Statistics on signaling costs: Based on the signaling path results, statistics on signaling number of satellites and ground stations can be computed. The number of signal in handover and TAU procedure is aligned with the 3GPP standard, and we exploit MobileInsight data to complete the results.
 
-### Empirical study
-In §3, we analyze four options of orbital core from 3GPP standards and 5G satellites by progressively adding radio, session, mobility, and security functions to satellites (Figure 6). 
-We run what-if studies for each option by replaying datasets from operational satellites and terrestrial 5G (Table 2, collected by MobileInsight  and equipment in Figure 4b) and global mobile subscriptions in ground stations in (as home network) and LEO mega-constellations in Table 1 using grid topology  and a testbed running open5gs on two commodity hardware in real LEO satellites (detailed in §6).
 
-We grouped these experiments into three categories and gave detailed reproducibility instructions.
-
-
-+ Hardware-specific core network functional performance experiments.
-	+ Examples: Figure 7 and 8.
-	+ Hardware: (1) Raspberry Pi 4 used by Baoyun 5G LEO satellite and; (2)
-Precision 7920 Workstation with Xeon E5-2630 (20 cores, 2.2GHz), which is  similar to (weaker than) Hewlett Packard Enterprise EL 8000s (24 cores, 2.4GHz) used by OrbitsEdge in satellites.
-	+ Software: [Open5GS](https://open5gs.org) and [UERANSIM](https://github.com/aligungr/UERANSIM).
-	+ Reproduction steps:
-		1. Deploy all functions of Open5GS on hardware 1/2, and deploy UERANSIM on any hardware (different from the hardware where Open5GS is located).
-		2. Establish connections between Open5GS and UERANSIM. The tutorial is available in the above Prototype Evaluation section.
-		3. Write scripts to insert users in batches and trigger signaling processes.
-		4. Use linux `top` command to monitor cpu usage and get signaling delay results based on UERANSIM and Open5GS logs.
-
-+ Signaling migration overhead.
-	+ Examples: Figure 9 and 12.
-	+ Reproduction steps: @yimei
-+ Operational satellites data based.
-	+ Examples: Figure 5b and figure 13b.
-	+ This part is more difficult to reproduce without the data we provided, because it requires the hardware in the figure 4b.
-	+ In order to protect the technical confidentiality of these terminals, we do not intend to disclose exactly how this data was obtained.
 
 ## Full dataset access
 Due to excessive data volume, we do not intend to release all raw data here. If you want more data, please send a request to yuanjiel@tsinghua.edu.cn.
