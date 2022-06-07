@@ -1,4 +1,4 @@
-## Figure 12: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead.
+## Figure 12: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead in Option 3 (Figure 6c).
 
 <div align=center><img src="./figure12.jpg" width=""></div>
 
@@ -10,7 +10,7 @@ Stateful functions in these LEO satellites should maintain the sensitive states 
 
 ### Experimental Methodology
 
-Over a 100-minute period, we randomly picked a satellite in Starlink and followed its signaling and state migrations with experiments in `../figure9`. We determine the continent it is on and label it based on the track of subsatellite point.
+We follow experiment in Figure 9 to show the instantaneous changes in the signal and state migration of a single satellite over time.
 
 ### How to run the code
 ```
