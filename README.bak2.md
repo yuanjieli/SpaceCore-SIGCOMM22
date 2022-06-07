@@ -130,6 +130,31 @@ pip3 install matplotlib numpy statsmodels pandas scipy seaborn
 ```
 
 
+## Experimental methodology
+
+We describe the experimental methodology in three parts, for more details please refer to the paper [1] and README of each figure/table in Figures-and-Tables folder.
+
+### Empirical study
+In §3, we analyze four options of orbital core from 3GPP standards and 5G satellites by progressively adding radio, session, mobility, and security functions to satellites (Figure 6). 
+We run what-if studies for each option by replaying datasets from operational satellites and terrestrial 5G (Table 2, collected by MobileInsight  and equipment in Figure 4b) and global mobile subscriptions in ground stations in (as home network) and LEO mega-constellations in Table 1 using grid topology  and a testbed running open5gs on two commodity hardware in real LEO satellites (detailed in §6).
+
+### Prototype Evaluation
+
+
+We follow §4–5 to prototype SpaceCore with [Open5GS](https://open5gs.org) and [OpenABE](https://github.com/zeutro/openabe) on two hardware: (1) Raspberry Pi 4 used by Baoyun 5G LEO satellite and; (2)
+Precision 7920 Workstation with Xeon E5-2630 (20 cores, 2.2GHz), which is similar to (weaker than) Hewlett Packard Enterprise EL 8000s (24 cores, 2.4GHz) used by OrbitsEdge in satellites.
+
+For prototype evaluation, we first examine SpaceCore’s functionality in a small network with a home running full-fledged 5G protocol stacks in a ThinkStation P910, a SpaceCore satellite with Raspberry Pi 4, and terrestrial UEs emulated by [UERANSIM](https://github.com/aligungr/UERANSIM). We initiate procedures in Figure 10 and 16 with varying number of users to evaluate SpaceCore’s performance and cost. 
+
+
+### Emulation in LEO Mega-Constellations
+
+
+To assess SpaceCore at scale, we run SpaceCore in LEO mega-constellations in Table 1 (based on real orbital information from [Space-Track](https://www.space-track.org)) and ground stations in [this link](https://tinyurl.com/4m5uah43) by replaying the above satellite/5G datasets.
+ 
+We assume the LEO mega-constellations use the grid satellite topology with inter-satellite traffic delivery capability. We run UERANSIM with SpaceCore to emulate global mobile subscriptions statistics and replay signaling datasets in Table 2 to trigger their signaling procedures. We repeat this experiment in SpaceCore and other solutions in §6.1 under varying LEO satellite capacities. Figure 20 shows the signaling costs without failures/attacks, and Figure 19 shows the resiliency to satellite attacks.
+
+
 ## Full dataset access
 Due to excessive data volume, we do not intend to release all raw data here. If you want more data, please send a request to yuanjiel@tsinghua.edu.cn.
 
