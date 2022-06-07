@@ -1,6 +1,6 @@
 ## Figure 5b: Registration signaling latency
 
-<div align=center><img src="./figure5b.pdf" width=""></div>
+<div align=center><img src="./figure5b.png" width=""></div>
 
 
 ### What is this figure about
