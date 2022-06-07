@@ -4,12 +4,13 @@
 
 ### What is this figure about
 Figure 9 shows signaling migration overhead of satellite and ground station in four constellations.
-This figure is to compare orbital cores in Figure 6 in LEO mega-constellations.
-All options in Figure 6 suffer from exhaustive signaling storms. For different options in Figure 6, cause of signaling storms vary. 
+
+This figure is to compare orbital cores in Figure 6 in LEO mega-constellations. Each LEO satellite must process $10^4$∼$10^5$ signaling messages/s (depending on satellite capacity, location, and constellations). This cost is worsened at the ground stations by one order of magnitude due to space-terrestrial asymmetry (except for Option 4). Without mobility functions in satellites (Figure 6a–6b), signaling storms arise from the stateful session establishment.
 
 ### Experimental Methodology
-Our research is based on LEO mega-mega-constellations, so that we emulate signaling migration overhead during mobility management and session setup in current LEO mega-mega-constellations.
-3GPP has developed the most widely used 5G standard, so we analyze signaling interactions between entities in 5G refer to 3GPP specifications. What‘s more，We refer to the signaling migration in real trace collected by MobileInsight.
+We analyze four options of orbital core from 3GPP standards and 5G satellites by progressively adding radio, session, mobility, and security functions to satellites (Figure 6). 
+
+Rather than spread these functions to multiple satellites, we focus on consolidating them to each satellite that is coherent with today’s 5G satellites to save signaling costs.  We run what-if studies for each option by replaying datasets from terrestrial 5G (Table 2, collected by MobileInsight) and global mobile subscriptions in ground stations in [<sup>1</sup>](#refer-anchor-1) (as home network) and LEO mega-constellations in Table 1 using grid topology.
 
 ### How to run the code
 ```
@@ -35,4 +36,8 @@ The data can be found in the `data/` folder.
 					|- distributedscenario_a_2000.npy
 					...
 		...
+
+### Reference
+
+<div id="refer-anchor-1"></div>- [1] Tesmanian. SpaceX Starlink Gateway Stations Found In The United States and Abroad. https://tinyurl.com/4m5uah43, 2021.
 
