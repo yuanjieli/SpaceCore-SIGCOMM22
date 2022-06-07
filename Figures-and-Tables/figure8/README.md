@@ -1,7 +1,6 @@
 ## Figure 8: Signaling latency in hardware by satellites
 
-<div align=center><img src="./figure8a.png" width=""></div>
-<div align=center><img src="./figure8b.png" width=""></div>
+<div align=center><img src="./figure8a.png" width=""><img src="./figure8b.png" width=""></div>
 
 ### What is this figure about
 
@@ -19,7 +18,10 @@ Precision 7920 Workstation with Xeon E5-2630 (20 cores, 2.2GHz), which is  simil
 + Software: [Open5GS](https://open5gs.org) and [UERANSIM](https://github.com/aligungr/UERANSIM).
 + Reproduction steps:
 	1. Deploy all functions of Open5GS on hardware 1/2, and deploy UERANSIM on any hardware (different from the hardware where Open5GS is located).
-	2. Establish connections between Open5GS and UERANSIM. The tutorial is available in the [main README.md](../../README.md).
+	2. Establish connections between Open5GS and UERANSIM.There are many tutorials available on how to establish connections between the them, such as:
+		+ [My first 5G Core : Open5GS and UERANSIM](https://nickvsnetworking.com/my-first-5g-core-open5gs-and-ueransim/)
+		+ [Open5GS 5GC & UERANSIM UE/RAN Sample Configuration](https://github.com/s5uishida/open5gs_5gc_ueransim_sample_config)
+		+ [Open5GS & UERANSIM - Select nearby UPF according to the connected gNodeB](https://github.com/s5uishida/open5gs_5gc_ueransim_nearby_upf_sample_config)
 	3. Write scripts to insert users in batches and trigger registration signaling processes.
 	4. Get signaling delay based on UERANSIM and Open5GS logs.
 	5. Processing data, calculating the signaling delay of each procedure on two hardware.
