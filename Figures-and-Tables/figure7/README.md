@@ -1,7 +1,7 @@
 ## Figure 7: CPU usages by core network functions
 
-<div align=center><img src="./figure7a.pdf" width=""></div>
-<div align=center><img src="./figure7b.pdf" width=""></div>
+<div align=center><img src="./figure7a.png" width=""></div>
+<div align=center><img src="./figure7b.png" width=""></div>
 
 ### What is this figure about
 This figure shows massive signalling procedures will exhaust satellite hardware. We initiate procedures with varying number of users to evaluate 5G core(Open5GS) cost.
