@@ -1,8 +1,6 @@
 ## Figure 13: Intermittent failures in mobile satellites
 
-<div align=center><img src="./figure13a.png" width=""></div>
-<div align=center><img src="./figure13b.png" width=""></div>
-
+<div align=center><img src="./figure13a.png" width=""><img src="./figure13b.png" width=""></div>
 
 
 ### What is this figure about
@@ -14,10 +12,9 @@ As shown in Figure 13a, every 1 out of 40 Starlink satellites may have failed si
 
 ### Experimental Methodology
 
-For figure 13a, we used publicly available data to analyze starlink satellite failures. Starlink satellites decay data is available on [Space-track](https://www.space-track.org).
+For figure 13a, we use publicly available data to analyze starlink satellite failures. Starlink satellites decay data is available on [Space-track](https://www.space-track.org).
 
-For figure 13b, our experiments are based on commercial satellite terminals. This requires the satellite terminals in Figure 4b. In order to protect the confidentiality of these satellite company terminals, we do not intend to fully disclose how we obtain this data. You can try to get the frame error from them by yourself.
-
+For figure 13b, our experiments are based on data from China Telecom Tiantong T900 satellite phone. 
 
 ### How to run the code
 ```
