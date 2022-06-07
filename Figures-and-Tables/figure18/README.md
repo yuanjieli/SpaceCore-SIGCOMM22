@@ -1,6 +1,6 @@
 ## Figure 18: SpaceCore’s local state processing costs
 
-<div align=center><img src="./figure18.pdf" width=""></div>
+<div align=center><img src="./figure18.png" width=""></div>
 
 ### What is this figure about
 Figure 18 shows SpaceCore's  extra local state processing costs (delay). 
