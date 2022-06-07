@@ -10,7 +10,7 @@ These two figures shows intermittent satellite failures from radiation (figure13
 As shown in Figure 13a, every 1 out of 40 Starlink satellites may have failed since they use commodity CPUs without hardening against radiations (for cost reasons). Moreover, all satellite links are wireless and thus prone to intermittent disconnections (e.g., out-of-alignment for laster satellite links in mobility, and atmospheric attenuation for space-ground radio links as exemplified in Figure 13b from our datasets). All procedures in Figure 10 are prone to these failures since any signaling message loss/error can block the entire procedure.
 
 
-### Experimental Methodology
+### Experimental methodology
 
 For figure 13a, we use publicly available data to analyze starlink satellite failures. Starlink satellites decay data is available on [Space-track](https://www.space-track.org).
 

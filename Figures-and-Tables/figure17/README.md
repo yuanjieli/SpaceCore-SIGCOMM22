@@ -1,11 +1,10 @@
 ## Figure 17: Prototype results in hardware platform 1
 
-<div align=center><img src="./figure17a-1.png" width=""></div>
-<div align=center><img src="./figure17a-2.png" width=""></div>
-<div align=center><img src="./figure17b-1.png" width=""></div>
-<div align=center><img src="./figure17b-2.png" width=""></div>
-<div align=center><img src="./figure17c-1.png" width=""></div>
-<div align=center><img src="./figure17c-2.png" width=""></div>
+<div align=center><img src="./figure17a-1.png" width=""><img src="./figure17a-2.png" width=""></div>
+
+<div align=center><img src="./figure17b-1.png" width=""><img src="./figure17b-2.png" width=""></div>
+
+<div align=center><img src="./figure17c-1.png" width=""><img src="./figure17c-2.png" width=""></div>
 
 ### What is this figure about
 
@@ -13,7 +12,7 @@ Figure 17 shows the signaling delays and satellite CPU usages in SpaceCore and o
 As shown in Figure 17, SpaceCore’s lightweight, localized state management reduces 889 ms (6.90×), 1,529 ms (11.15×), 139 ms (1.92×), and 477 ms (4.16×) signaling delays in session establishment compared to the legacy 5G NTN, Baoyun, DPCM and SkyCore, respectively.
 
 
-### Experimental Methodology
+### Experimental methodology
 	
 For prototype evaluation, we first examine SpaceCore’s functionality in a small network with a home running full-fledged 5G protocol stacks in a ThinkStation P910, a SpaceCore satellite with Raspberry Pi 4, and terrestrial UEs emulated by [UERANSIM](https://github.com/aligungr/UERANSIM). 
 
