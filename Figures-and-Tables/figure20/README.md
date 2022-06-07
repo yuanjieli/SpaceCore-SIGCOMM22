@@ -1,6 +1,6 @@
 ## Figure 19:  Signaling migration overhead per satellite and per ground station in five solutions.
 
-<div align=center><img src="./figure20.pdf" width=""></div>
+<div align=center><img src="./figure20.jpg" width=""></div>
 
 
 ### What is this figure about
