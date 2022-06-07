@@ -1,7 +1,7 @@
 ## Figure 8: Signaling latency in hardware by satellites
 
-<div align=center><img src="./figure8a.pdf" width=""></div>
-<div align=center><img src="./figure8b.pdf" width=""></div>
+<div align=center><img src="./figure8a.png" width=""></div>
+<div align=center><img src="./figure8b.png" width=""></div>
 
 ### What is this figure about
 
