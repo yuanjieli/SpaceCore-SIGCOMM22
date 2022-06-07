@@ -1,6 +1,6 @@
 ## Figure 9: Signaling migration overhead of satellite and ground station in four constellations.
 
-<div align=center><img src="./figure9.pdf" width=""></div>
+<div align=center><img src="./figure9.jpg" width=""></div>
 
 ### What is this figure about
 Figure 9 shows signaling migration overhead of satellite and ground station in four constellations.
