@@ -8,11 +8,9 @@ Figure 5b show 9.5s and 13.5s average registration delays in Inmarsat and Tianto
 This figure is to illustrate the high signaling latency of the current bent-pipe mode of GEO satellites.
 Such latency cannot meet 5G’s stringent radio baseband processing (≤10 ms) and signaling deadlines.
 
-### Experimental Methodology
-Our experiments are based on commercial satellite terminals.
-In order to protect the confidentiality of these satellite company terminals, we do not intend to fully disclose how we obtain this data. You can try to get the signaling delays from them yourself.
-We follow the standards of the satellite company (e.g. UMTS) to determine the start and end of the registration process.
-
+### Experimental methodology
+Our experiments are based on trace from China Telecom Tiantong SC310 and Inmarsat BGAN Explorer 710. 
+We follow the standards (e.g. UMTS) to determine the start and end of the registration process.
 
 ### How to run the code
 ```
