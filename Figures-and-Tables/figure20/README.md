@@ -6,16 +6,12 @@
 ### What is this figure about
 
 Figure 20 shows signaling migration overhead without failures/attacks.
-This figure is to compare  SpaceCore with four satellite solutions in LEO mega-constellations.
-SpaceCore significantly reduces signaling overhead compared to the other four solutions. It reduces 122.2×, 17.5×, 40.3×, and 49.3×signaling costs for satellites compared to 5G NTN, SkyCore, Baoyun, and DPCM, respectively in Starlink where capability of satellite is 30,000 users. 
+This figure is to compare  SpaceCore with other four satellite solutions in LEO mega-constellations in Tabel 1.
+SpaceCore significantly reduces signaling overhead compared to the other four solutions. It reduces 122.2×, 17.5×, 40.3×, and 49.3×signaling costs for satellites compared to 5G NTN, SkyCore, Baoyun, and DPCM, respectively in Starlink where capability of satellite is 30,000 users. SpaceCore eliminates the remote ground stations’s performance bottlenecks due to space-terrestrial asymmetry.
 
 ### Experimental Methodology
 
-Our research is based on LEO mega-mega-constellations, so that we emulate signaling migration overhead in existing LEO mega-mega-constellations.
-
-The overhead of signaling migration is related to the service capacity of a single satellite, so we examine the signaling overhead at different satellite service capacities
-
-We analyze signaling interactions between entities in 5G refer to solution-specific signaling simplification principles.
+We run SpaceCore in LEO mega-constellations in Table 1 (based on real orbital information from  [Space-track](https://www.space-track.org)) and ground stations in [<sup>1</sup>](#refer-anchor-1). We assume the LEO mega-constellations use the grid satellite topology with inter-satellite traffic delivery capability. We replay signaling datasets in Table 2 to trigger their signaling procedures. We repeat this experiment in SpaceCore and other solutions in §6.1 under varying LEO satellite capacities. 
 
 ### How to run the code
 
@@ -42,3 +38,8 @@ The data can be found in the `data/` folder.
 					...
 			|- distributed_new-end_SP_delay_hop.npy
 		...
+
+### Reference
+
+<div id="refer-anchor-1"></div>- [1] Tesmanian. SpaceX Starlink Gateway Stations Found In The United States and Abroad. https://tinyurl.com/4m5uah43, 2021.
+
