@@ -1,10 +1,10 @@
-## Figure 12: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead in Option 3 (Figure 6c).
+## Figure 12: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead.
 
-<div align=center><img src="./figure12.pdf" width=""></div>
+<div align=center><img src="./figure12.jpg" width=""></div>
 
 ### What is this figure about
 
-Figure 12 shows the temporal dynamics of Starlink’s signaling overhead in Option 3 (Figure 6c). 
+Figure 12 shows the temporal dynamics of Starlink’s signaling overhead. 
 Signaling overhead is bursty as static users in the same area simultaneously enter an incoming satellite’s coverage. It also varies over time as each satellite traverses different global locations. 
 Stateful functions in these LEO satellites should maintain the sensitive states shown in this figure from numerous users and traverse globally.
 
