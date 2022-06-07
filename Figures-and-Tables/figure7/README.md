@@ -1,7 +1,6 @@
 ## Figure 7: CPU usages by core network functions
 
-<div align=center><img src="./figure7a.png" width=""></div>
-<div align=center><img src="./figure7b.png" width=""></div>
+<div align=center><img src="./figure7a.png" width=""><img src="./figure7b.png" width=""></div>
 
 ### What is this figure about
 This figure shows massive signalling procedures will exhaust satellite hardware. We initiate procedures with varying number of users to evaluate 5G core(Open5GS) cost.
@@ -10,7 +9,7 @@ This exposes one of the drawbacks of all the functions deployed on the satellite
 In addition, we can also get the CPU utilization of each 5G core function.
 This has implications for the deployment of lightweight core networks on satellites.
 
-### Experimental Methodology
+### Experimental methodology
 
 We use two real LEO hardware to run a lightweight 5G core network, Open5GS, to illustrate the consumption of CPU resources by the signaling process. Even for a lightweight core network, the CPU consumption is still very heavy.
 
@@ -22,7 +21,10 @@ Precision 7920 Workstation with Xeon E5-2630 (20 cores, 2.2GHz), which is  simil
 + Software: [Open5GS](https://open5gs.org) and [UERANSIM](https://github.com/aligungr/UERANSIM).
 + Reproduction steps:
 	1. Deploy all functions of Open5GS on hardware 1/2, and deploy UERANSIM on any hardware (different from the hardware where Open5GS is located).
-	2. Establish connections between Open5GS and UERANSIM. The tutorial is available in the [main README.md](../../README.md).
+	2. Establish connections between Open5GS and UERANSIM. There are many tutorials available on how to establish connections between them, such as:
+		+ [My first 5G Core : Open5GS and UERANSIM](https://nickvsnetworking.com/my-first-5g-core-open5gs-and-ueransim/)
+		+ [Open5GS 5GC & UERANSIM UE/RAN Sample Configuration](https://github.com/s5uishida/open5gs_5gc_ueransim_sample_config)
+		+ [Open5GS & UERANSIM - Select nearby UPF according to the connected gNodeB](https://github.com/s5uishida/open5gs_5gc_ueransim_nearby_upf_sample_config)
 	3. Write scripts to insert users in batches and trigger registration signaling processes.
 	4. Use linux `top` command to monitor cpu utilization of each core function.
 	5. Processing data, calculating the cpu utilization of each function with varying number of users.
