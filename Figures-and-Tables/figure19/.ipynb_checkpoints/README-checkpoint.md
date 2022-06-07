@@ -2,7 +2,7 @@
 
 <div align=center><img src="./figure19a.jpg" width=""></div>
 
-<div align=center><img src="./figure19b.jpg" width=""></div>
+<div align=center><img src="./figure19b.pdf" width=""></div>
 
 ### What is this figure about
 Figure 19 shows the state leakages under satellite hijacking and man-in-the-middle passive listening of wireless inter-satellite links.
