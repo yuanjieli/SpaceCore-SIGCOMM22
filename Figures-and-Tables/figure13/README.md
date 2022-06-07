@@ -1,7 +1,7 @@
 ## Figure 13: Intermittent failures in mobile satellites
 
-<div align=center><img src="./figure13a.pdf" width=""></div>
-<div align=center><img src="./figure13b.pdf" width=""></div>
+<div align=center><img src="./figure13a.png" width=""></div>
+<div align=center><img src="./figure13b.png" width=""></div>
 
 
 
