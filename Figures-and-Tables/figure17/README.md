@@ -1,11 +1,11 @@
 ## Figure 17: Prototype results in hardware platform 1
 
-<div align=center><img src="./figure17a-1.pdf" width=""></div>
-<div align=center><img src="./figure17a-2.pdf" width=""></div>
-<div align=center><img src="./figure17b-1.pdf" width=""></div>
-<div align=center><img src="./figure17b-2.pdf" width=""></div>
-<div align=center><img src="./figure17c-1.pdf" width=""></div>
-<div align=center><img src="./figure17c-2.pdf" width=""></div>
+<div align=center><img src="./figure17a-1.png" width=""></div>
+<div align=center><img src="./figure17a-2.png" width=""></div>
+<div align=center><img src="./figure17b-1.png" width=""></div>
+<div align=center><img src="./figure17b-2.png" width=""></div>
+<div align=center><img src="./figure17c-1.png" width=""></div>
+<div align=center><img src="./figure17c-2.png" width=""></div>
 
 ### What is this figure about
 
