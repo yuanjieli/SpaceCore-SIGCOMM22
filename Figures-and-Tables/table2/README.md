@@ -20,18 +20,18 @@
   </tr>
   <tr>
     <td>L1/L2</td>
-    <td>33,845</td>
-    <td>1,178,327</td>
-    <td>2,759,859</td>
+    <td>56,231</td>
+    <td>1,744,094</td>
+    <td>3,887,429</td>
     <td>3,828,083</td>
     <td>1,475,393</td>
     <td>8,405,587</td>
   </tr>
   <tr>
     <td>RRC<br></td>
-    <td>4,484</td>
-    <td>9,583</td>
-    <td>3,020</td>
+    <td>40,800</td>
+    <td>4,226</td>
+    <td>1,340</td>
     <td>28,841</td>
     <td>14,833</td>
     <td>69,782</td>
@@ -39,26 +39,35 @@
   <tr>
     <td>MM</td>
     <td>57,264</td>
-    <td>46,139</td>
-    <td>13,556</td>
+    <td>43,555</td>
+    <td>12,626</td>
     <td>605</td>
     <td>970</td>
     <td>4,194</td>
   </tr>
   <tr>
     <td>SM</td>
-    <td>48,458</td>
+    <td>53,868</td>
     <td>4,586</td>
     <td>1,670</td>
     <td>203</td>
     <td>338</td>
     <td>925</td>
   </tr>
+   <tr>
+    <td>Others</td>
+    <td>762,957</td>
+    <td>310,455</td>
+    <td>376,671</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td>
+  </tr>
   <tr>
     <td>Total</td>
-    <td>946,860</td>
-    <td>2,311,663</td>
-    <td>4,885,375</td>
+    <td> 971,120 </td>
+    <td>2,106,916</td>
+    <td>4,279,736</td>
     <td>3,857,732</td>
     <td>1,491,534</td>
     <td>8,480,488</td>
@@ -68,17 +77,22 @@
 
 ### What is this table about
 This table shows our signaling datasets from operational satellites and terrestrial 5G.
-### Reproduction steps with our data
-1. jupyter notebook
-2. Open table2.ipynb file and run notebook
+
+### Experimental methodology
+We classify the data collected from mobile satellites and terrestrial 5G into the layers in the table according to the standards.
+
+### How to run the code
+```
+jupyter notebook
+Open table2.ipynb file and run notebook
+```
 
 ### Data
-The data can be found in the `data/` folder. Due to the volume of data and the protection of confidentiality of commercial terminals, these data are processed data. Each row of data represents only the layer or function in which it is located.
+The data can be found in the `data/` folder. Due to the volume of data and the protection of confidentiality of commercial terminals, these data are processed data. Each row represents the layer where the original data is located.
 
 	|- data
 		|- explore-710
 			|- 1-8-2022
-				|- 1.txt: 
 			|- 1-14-2022
 			|-...
 		|- tiantong-sc310
@@ -87,10 +101,3 @@ The data can be found in the `data/` folder. Due to the volume of data and the p
 			|-...
 
 
-### Code annotation
-We search for the following strings in the file to determine which layer the line is about.
-
-+ L1/L2: `L1/L2`
-+ RRC: `RRC layer` 
-+ MM: `Mobility management` 
-+ SM: `Session management`

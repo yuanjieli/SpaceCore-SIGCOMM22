@@ -1,15 +1,10 @@
-Others
-Others
-Others
+L1/L2
+L1/L2
 Others
 Others
 L1/L2
-Others
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -17,7 +12,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -25,8 +19,9 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
 Others
 L1/L2
 L1/L2
@@ -67,10 +62,9 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
 L1/L2
 Others
-Others
+L1/L2
 Others
 L1/L2
 L1/L2
@@ -199,7 +193,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
 Others
 L1/L2
 L1/L2
@@ -1823,7 +1816,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1876,10 +1868,9 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
 L1/L2
-Others
 Others
+L1/L2
 Others
 L1/L2
 L1/L2
@@ -2128,9 +2119,6 @@ Others
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 Others
 Others
 Others

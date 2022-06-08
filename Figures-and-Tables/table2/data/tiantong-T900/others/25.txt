@@ -1,7 +1,5 @@
-Others
-Others
-Others
-Others
+L1/L2
+L1/L2
 Others
 Others
 L1/L2
@@ -16,10 +14,6 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -36,14 +30,10 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 Others
 Others
 Others
 Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -58,14 +48,10 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
 Others
 Others
 Others
 Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -79,14 +65,10 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
 Others
 Others
 Others
 Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -107,10 +89,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
 Others
 Others
 Others
@@ -132,10 +110,6 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -153,7 +127,7 @@ L1/L2
 L1/L2
 L1/L2
 Others
-Others
+L1/L2
 RRC layer
 RRC layer
 RRC layer
@@ -164,13 +138,6 @@ RRC layer
 RRC layer
 RRC layer
 RRC layer
-Others
-Others
-Others
-Others
-Others
-Others
-Others
 Others
 Others
 Others
@@ -182,8 +149,6 @@ Others
 Others
 Others
 Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -194,38 +159,14 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
 L1/L2
 Others
 Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
-Others
-Others
 L1/L2
-Others
-Others
-Others
-Others
 L1/L2
-Others
-Others
-Others
 Others
 Others
 Others
@@ -234,21 +175,19 @@ Others
 L1/L2
 Others
 Others
-Others
-Others
-Others
+L1/L2
 Others
 Others
 Others
 Others
 L1/L2
-Others
-Others
-Others
+L1/L2
 Others
 Others
 Others
 Others
+L1/L2
+L1/L2
 Others
 Others
 Others
@@ -256,43 +195,33 @@ Others
 Others
 Others
 L1/L2
-Others
 L1/L2
-Others
 L1/L2
-Others
 L1/L2
-Others
 L1/L2
-Others
-Others
-Others
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 Others
 Others
 Others
 L1/L2
-Others
-Others
 Others
 Others
 L1/L2
-Others
 L1/L2
-Others
-Others
-Others
-Others
-Others
+L1/L2
+L1/L2
 Others
 Others
 Others
 Others
 L1/L2
-Others
-Others
+L1/L2
+L1/L2
 RRC layer
 RRC layer
 RRC layer
@@ -306,16 +235,13 @@ RRC layer
 RRC layer
 RRC layer
 RRC layer
-Others
-Others
 Others
 Others
 RRC layer
-Others
-Others
-Others
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 Others
 Others
@@ -328,10 +254,6 @@ Others
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
 Others
 Others
 Others
@@ -341,13 +263,7 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
 L1/L2
-Others
-Others
 Others
 Others
 L1/L2
@@ -357,7 +273,7 @@ RRC layer
 RRC layer
 Others
 L1/L2
-Others
+L1/L2
 Mobility management
 Mobility management
 Mobility management
@@ -395,7 +311,6 @@ Others
 L1/L2
 L1/L2
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Mobility management
@@ -405,9 +320,6 @@ Others
 Others
 L1/L2
 Mobility management
-RRC layer
-Others
-Others
 Mobility management
 Mobility management
 Mobility management
@@ -418,16 +330,12 @@ Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 Mobility management
 Mobility management
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 Mobility management
 Mobility management
 Mobility management
@@ -438,77 +346,40 @@ Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
 Mobility management
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
-Others
-Others
-Others
 Others
 Others
 Others
@@ -525,25 +396,12 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
 L1/L2
 Others
 Mobility management
 Others
 Others
 L1/L2
-Others
-Others
-Others
-Others
 Others
 Others
 Others
@@ -552,10 +410,6 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -573,7 +427,6 @@ L1/L2
 L1/L2
 L1/L2
 Mobility management
-RRC layer
 L1/L2
 L1/L2
 Others
@@ -609,8 +462,7 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
+L1/L2
 Others
 L1/L2
 RRC layer
@@ -620,56 +472,29 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -688,25 +513,37 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 Others
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
-RRC layer
 Mobility management
 Mobility management
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -745,11 +582,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -777,28 +609,24 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 L1/L2
 RRC layer
 Mobility management
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
-Others
-Others
 Others
 Others
 Others
 Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -806,27 +634,18 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -836,18 +655,12 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -873,14 +686,22 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 L1/L2
 RRC layer
 Mobility management
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Mobility management
@@ -889,34 +710,22 @@ Mobility management
 Mobility management
 Others
 Others
-Others
 Mobility management
-Others
 Others
 Others
-Others
-Others
-Others
 L1/L2
-Others
-Others
-Others
+L1/L2
 L1/L2
 L1/L2
 L1/L2
+L1/L2
 Others
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 Others
-Others
 L1/L2
-Others
-Others
-Others
 Others
 Others
 Others
@@ -924,27 +733,18 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -962,10 +762,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -989,23 +785,27 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 L1/L2
 RRC layer
 Mobility management
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Mobility management
 Mobility management
 Others
 Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1015,8 +815,7 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
+L1/L2
 Others
 L1/L2
 RRC layer
@@ -1025,7 +824,7 @@ Others
 Others
 Others
 Others
-Others
+L1/L2
 Others
 Others
 Others
@@ -1035,14 +834,9 @@ Others
 Others
 Others
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
-Others
-Others
 Others
 Others
 L1/L2
@@ -1050,18 +844,12 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1070,9 +858,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1080,9 +865,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1092,22 +874,28 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 L1/L2
 RRC layer
 Mobility management
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Others
@@ -1118,18 +906,14 @@ Others
 Others
 L1/L2
 Mobility management
-Others
-Others
 Mobility management
 Mobility management
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
-Others
 L1/L2
+L1/L2
 RRC layer
 RRC layer
 Others
@@ -1138,58 +922,37 @@ Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 L1/L2
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 Others
 Others
 Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 Mobility management
-Others
 Mobility management
-L1/L2
 Mobility management
 Mobility management
-Others
-Others
 Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
 L1/L2
 Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1197,16 +960,12 @@ Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
-Others
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 L1/L2
 L1/L2
 L1/L2
@@ -1239,8 +998,11 @@ Session management
 Session management
 Mobility management
 Mobility management
+L1/L2
 Mobility management
-Others
+Session management
+Mobility management
+L1/L2
 Mobility management
 Session management
 Mobility management
@@ -1248,30 +1010,12 @@ Others
 Others
 Mobility management
 Session management
-Mobility management
-Others
-Others
-Others
-Mobility management
-Others
-Others
-Session management
 Session management
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-L1/L2
-L1/L2
-L1/L2
-L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1280,17 +1024,23 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 L1/L2
 RRC layer
@@ -1305,9 +1055,6 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1316,16 +1063,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-L1/L2
-L1/L2
-L1/L2
-L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -1334,28 +1071,32 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
 L1/L2
-Others
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
 Others
 Others
 L1/L2
@@ -1367,30 +1108,10 @@ Others
 Others
 L1/L2
 Mobility management
-RRC layer
 Mobility management
 Mobility management
 Others
 Mobility management
-RRC layer
-Others
-Others
-Mobility management
-Mobility management
-Mobility management
-Mobility management
-Mobility management
-Mobility management
-Others
-Others
-Mobility management
-Mobility management
-Mobility management
-Mobility management
-Mobility management
-Mobility management
-Others
-Others
 Mobility management
 Mobility management
 Mobility management
@@ -1401,23 +1122,26 @@ Mobility management
 Mobility management
 Mobility management
 Mobility management
-Others
-Others
-Mobility management
-RRC layer
-Mobility management
-RRC layer
-Mobility management
-Mobility management
-RRC layer
 Mobility management
 Mobility management
 Mobility management
-RRC layer
 Mobility management
-RRC layer
-Others
-Others
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
+Mobility management
 Mobility management
 Mobility management
 Mobility management
@@ -1429,20 +1153,11 @@ Mobility management
 Mobility management
 Mobility management
 Others
-Others
-Others
 Mobility management
-Others
-Others
-Others
 Others
 Others
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
 Others
 Others
 Others
@@ -1454,14 +1169,8 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
-Others
-Others
 Others
 Others
 L1/L2
@@ -1469,8 +1178,6 @@ Others
 Mobility management
 Others
 L1/L2
-Others
-Others
 Others
 Others
 L1/L2
@@ -1490,7 +1197,6 @@ L1/L2
 L1/L2
 L1/L2
 Mobility management
-RRC layer
 L1/L2
 L1/L2
 Others

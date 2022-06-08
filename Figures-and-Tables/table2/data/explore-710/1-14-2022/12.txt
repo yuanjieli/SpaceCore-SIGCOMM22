@@ -759,7 +759,7 @@ Others
 Others
 Others
 Others
-Others
+Session management
 Mobility management
 Mobility management
 Others
@@ -1131,7 +1131,7 @@ Others
 Mobility management
 Session management
 Others
-Others
+Session management
 Others
 Session management
 Others
@@ -2288,30 +2288,30 @@ Session management
 Session management
 Session management
 Session management
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
 Mobility management
 Mobility management
 Mobility management
@@ -2350,29 +2350,29 @@ Session management
 Session management
 Session management
 Session management
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
 Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
 Others
 Others
 Others
@@ -2686,6 +2686,169 @@ Mobility management
 Mobility management
 Mobility management
 Mobility management
+Others
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+Session management
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+RRC layer
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+L1/L2
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
 Others
 Others
 Others
@@ -2726,9 +2889,89 @@ RRC layer
 RRC layer
 RRC layer
 RRC layer
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+RRC layer
+RRC layer
+Others
+Others
+Others
 RRC layer
 RRC layer
 RRC layer
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+Others
+RRC layer
+Others
+RRC layer
+RRC layer
+RRC layer
+Others
+Others
+L1/L2
+Others
+Others
+RRC layer
+Others
+RRC layer
+RRC layer
+RRC layer
+Others
+Others
+Others
+Others
 RRC layer
 Others
 Others
@@ -2805,93 +3048,6 @@ Others
 Others
 Others
 Others
-L1/L2
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-L1/L2
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-L1/L2
-Others
-Others
-Others
 Others
 Others
 Others
@@ -3852,90 +4008,6 @@ Others
 Others
 Others
 Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
-Others
 L1/L2
 L1/L2
 L1/L2
@@ -4273,10 +4345,6 @@ L1/L2
 L1/L2
 L1/L2
 L1/L2
-Others
-Others
-Others
-Others
 Others
 Others
 Others
@@ -6047,6 +6115,8 @@ Others
 Others
 Others
 Others
+Session management
+Session management
 Others
 Others
 Others
@@ -6094,6 +6164,8 @@ Others
 Others
 Others
 Others
+Session management
+Session management
 Others
 Others
 Session management
