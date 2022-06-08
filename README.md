@@ -140,7 +140,7 @@ pip3 install matplotlib numpy statsmodels pandas scipy seaborn
 
 
 ## Full dataset access
-Due to excessive data volume, we do not intend to release all raw data here. If you want more data, please send a request to yuanjiel@tsinghua.edu.cn.
+Due to excessive data volume, we do not intend to release all raw data here and put a sample in the dataset folder. If you want more data, please send a request to yuanjiel@tsinghua.edu.cn.
 
 The request should include the work department, the purpose of data usage, and the data content obtained.
 
