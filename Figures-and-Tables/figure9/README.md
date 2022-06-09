@@ -10,7 +10,7 @@ This figure is to compare orbital cores in Figure 6 in LEO mega-constellations. 
 ### Experimental Methodology
 We analyze four options of orbital core from 3GPP standards and 5G satellites by progressively adding radio, session, mobility, and security functions to satellites (Figure 6). 
 
-Rather than spread these functions to multiple satellites, we focus on consolidating them to each satellite that is coherent with today’s 5G satellites to save signaling costs.  We run what-if studies for each option by replaying datasets from terrestrial 5G (Table 2, collected by MobileInsight) and global mobile subscriptions in ground stations in [<sup>1</sup>](#refer-anchor-1) (as home network) and LEO mega-constellations in Table 1 using grid topology.
+Rather than spread these functions to multiple satellites, we focus on consolidating them to each satellite that is coherent with today’s 5G satellites to save signaling costs.  We run what-if studies for each option by replaying datasets from terrestrial 5G (Table 2, collected by MobileInsight) and global mobile subscriptions in ground stations in [1] as home network and LEO mega-constellations in Table 1 using grid topology [2,3].
 
 ### How to run the code
 ```
@@ -37,7 +37,13 @@ The data can be found in the `data/` folder.
 					...
 		...
 
-### Reference
+### References
 
-<div id="refer-anchor-1"></div>- [1] Tesmanian. SpaceX Starlink Gateway Stations Found In The United States and Abroad. https://tinyurl.com/4m5uah43, 2021.
+[1] Tesmanian. SpaceX Starlink Gateway Stations Found In The United States and Abroad. https://tinyurl.com/4m5uah43, 2021.
+
+[2] Sydney Finkelstein and Shade H Sanford. Learning from corporate mistakes: The rise and fall of iridium. Organizational Dynamics, 29(2):138–148, 2000.
+
+[3] Debopam Bhattacherjee and Ankit Singla. Network Topology Design
+at 27,000 km/hour. In ACM CoNEXT, 2019.
+
 
