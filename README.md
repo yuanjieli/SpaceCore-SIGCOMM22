@@ -24,8 +24,9 @@ This repository includes the following contents:
 		|- sigcomm22.pdf: The SIGCOMM'22 paper.
 		|- SpaceCore-overview.png: SpaceCore overview.
 		|- README.md: This file.
-	
-	
+
+
+​	
 ## Dataset
 
 
@@ -33,7 +34,7 @@ We use two datasets for the empirical study and evaluation (in `SpaceCore-SIGCOM
 
 - **Satellite terminal dataset**: The dataset is collected from three satellite termainals: China Telecom Tiantong SC310, China Telecom Tiantong 
 T900 and Inmarsat BGAN Explorer 710 in 04/2021–1/2022.  
-- **Mobileinsight dataset**: @yimei.
+- **Mobileinsight dataset**: The dataset is collected from three operators in China: China Telecom, China Unicom, and China Mobile with Xiaomi 10/11 and OnePlus 9 running [MobileInsight](https://www.mobileinsight.net/) with our extensions support these signaling message collections.
 
 <table>
 <thead>
