@@ -8,17 +8,12 @@ In combination with figure 17, even with the extra local state processing delay 
 
 ### Experimental Methodology
 
-ABE is introduced by SpaceCore for security purposes and is the main part of the computational resource consumption, which can be tested separately to get its additional delay.
-
-Here are the experiment details:
+We follow Section 4.4 to implement SpaceCore's Home-Controlled State Updates using attribute-based encryption (ABE). We quantify its local state processing delay using the following setup:
 
 + Hardware: Raspberry Pi 4B. 
 + OS: Ubuntu 18.04.
 + Software: [OpenABE](https://github.com/zeutro/openabe).
-+ Reproduction steps:
-	+ Install OpenABE on Raspberry Pi 4B.
-	+ Write codes to test the encryption and decryption times for different plaintext lengths and number of attributes.
-	+ Process the data and plot the figure.
+
 
 ### How to run the code
 ```
