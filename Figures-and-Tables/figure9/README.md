@@ -10,7 +10,13 @@ This figure is to compare orbital cores in Figure 6 in LEO mega-constellations. 
 ### Experimental Methodology
 We analyze four options of orbital core from 3GPP standards and 5G satellites by progressively adding radio, session, mobility, and security functions to satellites (Figure 6). 
 
+<div align=center><img src="./figure6.jpg" width=""></div>
+
 Rather than spread these functions to multiple satellites, we focus on consolidating them to each satellite that is coherent with today’s 5G satellites to save signaling costs.  We run what-if studies for each option by replaying datasets from terrestrial 5G (Table 2, collected by MobileInsight) and global mobile subscriptions in ground stations in [1] as home network and LEO mega-constellations in Table 1 using grid topology [2,3].
+
+<div align=center><img src="./table1.jpg" width=""></div>
+
+<div align=center><img src="./table2.jpg" width=""></div>
 
 ### How to run the code
 ```
@@ -45,5 +51,4 @@ The data can be found in the `data/` folder.
 
 [3] Debopam Bhattacherjee and Ankit Singla. Network Topology Design
 at 27,000 km/hour. In ACM CoNEXT, 2019.
-
 
