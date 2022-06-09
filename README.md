@@ -114,37 +114,39 @@ T900 and Inmarsat BGAN Explorer 710 in 04/2021–1/2022.
 
 In `SpaceCore-SIGCOMM22/Figures-and-Tables/`, we release the traces used in [1]'s figures and tables, including
 
-- Figure5b: Measurement registration signaling latency in Tiantong SC310 and Inmarsat Explorer 710.
-- Figure7: CPU usages by core network functions.
-- Figure8: Signaling latency(Initial/Mobility registrations and Session establishments) in two hardware by satellites.
-- Figure9: Signaling migration overhead of satellite and ground station in four constellations.
-- Figure12: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead in Option 3(Figure 6c).
-- Figure13: Satellite failures in Starlink and radio link failures in Tiantong T900.
-- Figure17: Singnaling delay and satellite CPU usage of initial registration, session establishment and mobility registration (by LEO satellite mobility). 
-- Figure18: SpaceCore’s local state processing costs.
-- Figure19: Leaked sensitive states in satellite attacks.
-- Figure20: Signaling migration overhead per satellite and per ground station in five solutions.
-- Table2: Overview of dataset from our experiments.
-- Table4: SpaceCore’s satellite signaling cost reduction.
+- `Figure5b`: Measurement registration signaling latency in Tiantong SC310 and Inmarsat Explorer 710.
+- `Figure7`: CPU usages by core network functions.
+- `Figure8`: Signaling latency(Initial/Mobility registrations and Session establishments) in two hardware by satellites.
+- `Figure9`: Signaling migration overhead of satellite and ground station in 4 constellations.
+- `Figure12`: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead in Option 3(Figure 6c).
+- `Figure13`: Satellite failures in Starlink and radio link failures in Tiantong T900.
+- `Figure17`: Singnaling delay and satellite CPU usage of initial registration, session establishment and mobility registration (by LEO satellite mobility). 
+- `Figure18`: SpaceCore’s local state processing costs.
+- `Figure19`: Leaked sensitive states in satellite attacks.
+- `Figure20`: Signaling migration overhead per satellite and per ground station in five solutions.
+- `Table2`: Overview of dataset from the experiments.
+- `Table4`: SpaceCore’s satellite signaling cost reduction.
 
-Each table/figure has a README in the folder that describes how to run our code, and the methodology of our experiments.
+Each table/figure has a `README.md` in its corresponding folder that details the experimental methodology and how to run the code.
 
 ## Dependencies
 
-We have placed the experimental code and data in the Figures-and-Tables folder.
-All code in this repository runs in **python3** and **jupyter notebook** environment. The following are dependencies:
+To run all code in this repository, please use `python3 + jupyter notebook` and install the following packages:
 
 ```
 pip3 install matplotlib numpy statsmodels pandas scipy seaborn
 ```
 
-
-## Full dataset access
+<!-- ## Raw dataset access
 Due to excessive data volume, we do not intend to release all raw data here and put a sample in the dataset folder. If you want more data, please send a request to yuanjiel@tsinghua.edu.cn.
 
-The request should include the work department, the purpose of data usage, and the data content obtained.
+The request should include the work department, the purpose of data usage, and the data content obtained. -->
+
+## Contact
+
+Please contact yuanjiel@tsinghua.edu.cn if you have any questions about the paper and artifacts.
 
 ## References
 
-[1] Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai. A Case for Stateless Mobile Core Network Functions in Space. ACM SIGCOMM 2022.
+[1] Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai. A Case for Stateless Mobile Core Network Functions in Space. To appear at ACM SIGCOMM 2022.
 
