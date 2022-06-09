@@ -14,8 +14,8 @@ This repository includes the following contents:
 
 	|- SpaceCore-SIGCOMM22
 		|- Dataset
-			|-Satellite terminal data: signaling datasets from operational satellites.
-			|-Mobileinsight dataset:
+			|-Mobile-Satellites: Signaling datasets from operational satellites.
+			|-Terrestrial-5G: Signaling datasets from terrestrial 5G.
 		|- Figures-and-Tables: Source files of figures and tables in [1]
 			|-Figure5b
 			|-Figure7
@@ -144,7 +144,7 @@ The request should include the work department, the purpose of data usage, and t
 
 ## Citation
 
-Please indicate the source-link when using it and cite our SIGCOMM paper [1].
+Please indicate this repository when using it and cite our SIGCOMM paper [1].
 
 ## Contact
 
