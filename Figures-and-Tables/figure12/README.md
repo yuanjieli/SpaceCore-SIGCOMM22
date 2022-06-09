@@ -2,7 +2,7 @@
 
 <div align=center><img src="./figure12.jpg" width=""></div>
 
-### What is this figure about
+### Overview
 
 Figure 12 shows the temporal dynamics of Starlink’s signaling overhead. 
 Signaling overhead is bursty as static users in the same area simultaneously enter an incoming satellite’s coverage. It also varies over time as each satellite traverses different global locations. 

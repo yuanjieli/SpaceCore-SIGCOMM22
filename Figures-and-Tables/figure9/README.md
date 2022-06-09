@@ -2,7 +2,7 @@
 
 <div align=center><img src="./figure9.jpg" width=""></div>
 
-### What is this figure about
+### Overview
 Figure 9 shows signaling migration overhead of satellite and ground station in four constellations.
 
 This figure is to compare orbital cores in Figure 6 in LEO mega-constellations. Each LEO satellite must process $10^4$∼$10^5$ signaling messages/s (depending on satellite capacity, location, and constellations). This cost is worsened at the ground stations by one order of magnitude due to space-terrestrial asymmetry (except for Option 4). Without mobility functions in satellites (Figure 6a–6b), signaling storms arise from the stateful session establishment.

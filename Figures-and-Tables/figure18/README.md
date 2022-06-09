@@ -2,7 +2,7 @@
 
 <div align=center><img src="./figure18.png" width=""></div>
 
-### What is this figure about
+### Overview
 Figure 18 shows SpaceCore's  extra local state processing costs (delay). 
 In combination with figure 17, even with the extra local state processing delay introduced by SpaceCore, the overall delay of SpaceCore is still much lower than other solutions. 
 

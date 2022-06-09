@@ -3,7 +3,7 @@
 <div align=center><img src="./figure5b.png" width=""></div>
 
 
-### What is this figure about
+### Overview
 Figure 5b show 9.5s and 13.5s average registration delays in Inmarsat and Tiantong.
 This figure is to illustrate the high signaling latency of the current bent-pipe mode of GEO satellites.
 Such latency cannot meet 5G’s stringent radio baseband processing (≤10 ms) and signaling deadlines.

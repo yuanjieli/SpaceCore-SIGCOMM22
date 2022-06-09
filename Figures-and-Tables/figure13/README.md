@@ -3,7 +3,7 @@
 <div align=center><img src="./figure13a.png" width=""><img src="./figure13b.png" width=""></div>
 
 
-### What is this figure about
+### Overview
 
 These two figures shows intermittent satellite failures from radiation (figure13a) and unreliable wireless links (figure13b). 
 
@@ -12,9 +12,9 @@ As shown in Figure 13a, every 1 out of 40 Starlink satellites may have failed si
 
 ### Experimental methodology
 
-For figure 13a, we use publicly available data to analyze starlink satellite failures. Starlink satellites decay data is available on [Space-track](https://www.space-track.org).
+For Figure 13a, we use publicly available data to analyze starlink satellite failures. Starlink satellites decay data is available on [Space-track](https://www.space-track.org).
 
-For figure 13b, our experiments are based on data from China Telecom Tiantong T900 satellite phone. 
+For Figure 13b, our experiments are based on data from China Telecom Tiantong T900 satellite phone. 
 
 ### How to run the code
 ```

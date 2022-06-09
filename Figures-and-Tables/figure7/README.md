@@ -2,7 +2,7 @@
 
 <div align=center><img src="./figure7a.png" width=""><img src="./figure7b.png" width=""></div>
 
-### What is this figure about
+### Overview
 This figure shows massive signalling procedures will exhaust satellite hardware. We initiate procedures with varying number of users to evaluate 5G core(Open5GS) cost.
 This exposes one of the drawbacks of all the functions deployed on the satellite.
 

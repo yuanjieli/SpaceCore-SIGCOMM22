@@ -3,7 +3,7 @@
 <div align=center><img src="./figure20.jpg" width=""></div>
 
 
-### What is this figure about
+### Overview
 
 Figure 20 shows signaling migration overhead without failures/attacks.
 This figure is to compare  SpaceCore with other four satellite solutions in LEO mega-constellations in Tabel 1.

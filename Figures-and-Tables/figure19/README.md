@@ -2,7 +2,7 @@
 
 <div align=center><img src="./figure19a.jpg" width=""><img src="./figure19b.jpg" width=""></div>
 
-### What is this figure about
+### Overview
 Figure 19 shows the state leakages under satellite hijacking and man-in-the-middle passive listening of wireless inter-satellite links.
 These figures are to illustrate the resiliency to satellite attacks of five solutions. 
 Through comparison, we arrive at the following conclusions: SpaceCore is resilient to satellite hijacking due to its stateless nature. SpaceCore is also resilient to link failures and man-in-the-middle attacks since it localizes most state operations with few migrations.

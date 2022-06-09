@@ -2,7 +2,7 @@
 
 <div align=center><img src="./figure8a.png" width=""><img src="./figure8b.png" width=""></div>
 
-### What is this figure about
+### Overview
 
 This figure shows massive signalling procedures will delay all users’ services (initial/mobility registration and session establishment)  by queuing. We initiate procedures with varying number of users to evaluate 5G core(Open5GS) performance.
 This motivates us to reduce the signaling latency in SpaceCore.

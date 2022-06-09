@@ -59,9 +59,9 @@
     <td>762,957</td>
     <td>310,455</td>
     <td>376,671</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>Total</td>
@@ -75,8 +75,8 @@
 </tbody>
 </table>
 
-### What is this table about
-This table shows our signaling datasets from operational satellites and terrestrial 5G.
+### Overview
+This table shows the statistics of our signaling datasets from operational satellites and terrestrial 5G.
 
 ### Experimental methodology
 We classify the data collected from mobile satellites and terrestrial 5G into the layers in the table according to the standards.

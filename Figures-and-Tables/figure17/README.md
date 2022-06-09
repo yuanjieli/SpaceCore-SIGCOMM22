@@ -6,7 +6,7 @@
 
 <div align=center><img src="./figure17c-1.png" width=""><img src="./figure17c-2.png" width=""></div>
 
-### What is this figure about
+### Overview
 
 Figure 17 shows the signaling delays and satellite CPU usages in SpaceCore and other solutions. We initiate procedures in Figure 10 and 16 with varying number of users to evaluate SpaceCore’s performance and cost. 
 As shown in Figure 17, SpaceCore’s lightweight, localized state management reduces 889 ms (6.90×), 1,529 ms (11.15×), 139 ms (1.92×), and 477 ms (4.16×) signaling delays in session establishment compared to the legacy 5G NTN, Baoyun, DPCM and SkyCore, respectively.
