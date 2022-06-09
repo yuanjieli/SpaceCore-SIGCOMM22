@@ -2,15 +2,15 @@
 
 This repository collects the artifacts of the SIGCOMM'22 paper "A Case for Stateless Mobile Core Network Functions in Space."
 
-## Paper Abstract
-Is it worth and feasible to push mobile core network functions to low-earth-orbit (LEO) satellite mega-constellations? While this paradigm is being tested in space and promises new values, it also raises scalability, performance, and security concerns based on our study with datasets from operational satellites and 5G. A major challenge is today’s stateful mobile core, which suffers from signaling storms in satellites’ extreme mobility, intermittent failures in outer space, and attacks when unavoidably exposed to untrusted foreign locations. To this end, we make a case for a stateless mobile core in space. Our solution, SpaceCore, decouples states from orbital core functions, simplifies location states via geospatial addressing, eliminates unnecessary state migrations in satellite mobility by shifting to geospatial service areas, and localizes state retrievals with device-as-the-repository. Our evaluation with datasets from operational satellites and 5G shows SpaceCore’s 17.5× signaling reductions and resiliency to failures/attacks compared to existing solutions.
+## Overview
+Is it worth and feasible to push mobile core network functions to low-earth-orbit (LEO) satellite mega-constellations? While this paradigm is being tested in space and promises new values, it also raises scalability, performance, and security concerns based on our study with datasets from operational satellites and 5G. A major challenge is today’s stateful mobile core, which suffers from signaling storms in satellites’ extreme mobility, intermittent failures in outer space, and attacks when unavoidably exposed to untrusted foreign locations. In [1], we make a case for a stateless mobile core in space. Our solution, SpaceCore, decouples states from orbital core functions, simplifies location states via geospatial addressing, eliminates unnecessary state migrations in satellite mobility by shifting to geospatial service areas, and localizes state retrievals with device-as-the-repository. Our evaluation with datasets from operational satellites and 5G shows SpaceCore’s 17.5× signaling reductions and resiliency to failures/attacks compared to existing solutions.
 
 <div align=center><img src="./SpaceCore-overview.png" width="100%"></div>
 
 
 ## Repository structure
 
-This repository is composed of the following parts
+This repository includes the following contents:
 
 	|- SpaceCore-SIGCOMM22
 		|- Dataset
@@ -29,7 +29,7 @@ This repository is composed of the following parts
 ## Dataset
 
 
-We use two datasets for the empirical study and evaluation (released in `SpaceCore-SIGCOMM22/Dataset/`):
+We use two datasets for the empirical study and evaluation (in `SpaceCore-SIGCOMM22/Dataset/`):
 
 - **Satellite terminal dataset**: The dataset is collected from three satellite termainals: China Telecom Tiantong SC310, China Telecom Tiantong 
 T900 and Inmarsat BGAN Explorer 710 in 04/2021–1/2022.  
@@ -94,9 +94,9 @@ T900 and Inmarsat BGAN Explorer 710 in 04/2021–1/2022.
     <td>762,957</td>
     <td>310,455</td>
     <td>376,671</td>
-    <td>0</td>
-    <td>0</td>
-    <td>0</td>
+    <td>N/A</td>
+    <td>N/A</td>
+    <td>N/A</td>
   </tr>
   <tr>
     <td>Total</td>
@@ -142,9 +142,13 @@ Due to excessive data volume, we do not intend to release all raw data here and 
 
 The request should include the work department, the purpose of data usage, and the data content obtained. -->
 
+## Citation
+
+Please indicate the source-link when using it and cite our SIGCOMM paper [1].
+
 ## Contact
 
-Please contact yuanjiel@tsinghua.edu.cn if you have any questions about the paper and artifacts.
+Please contact yuanjiel@tsinghua.edu.cn for any questions or technical support.
 
 ## References
 
