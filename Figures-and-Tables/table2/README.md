@@ -79,7 +79,7 @@
 This table shows the statistics of our signaling datasets from operational satellites and terrestrial 5G.
 
 ### Experimental methodology
-We classify the data collected from mobile satellites and terrestrial 5G into the layers in the table according to the standards.
+We classify the data collected from mobile satellites and terrestrial 5G into the layers in the table according to the ETSI/3GPP standards (ETSI TS101376-1-3; 3GPP TS24.008, TS24.501, TS38.211, TS38.212, TS38.213, TS38.331, TS38.321, TS38.322, TS38.323, TR38.811).
 
 ### How to run the code
 ```

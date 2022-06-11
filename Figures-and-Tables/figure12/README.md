@@ -1,4 +1,4 @@
-## Figure 12: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead in Option 3 (Figure 6c).
+## Figure 12: Temporal dynamics of a fast-moving LEO satellite’s signaling overhead in Option 3.
 
 <div align=center><img src="./figure12.jpg" width=""></div>
 
